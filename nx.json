@@ -1,6 +1,6 @@
 {
   "extends": "nx/presets/npm.json",
-  "npmScope": "monorepo",
+  "npmScope": "monorepo2",
   "affected": {
     "defaultBase": "main"
   },
