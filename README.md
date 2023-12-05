@@ -6,7 +6,7 @@ A simple threat modeling tool to help humans to reduce time-to-value when threat
 
 ![Animated gif of Full mode](/docs/threat-composer.gif)
 
-
+Quick EDITTTT
 ----> [Live demo](https://awslabs.github.io/threat-composer?mode=Full) <----
 
 ## Summary
